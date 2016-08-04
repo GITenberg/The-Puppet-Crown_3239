@@ -1,0 +1,30 @@
+_repo: The-Puppet-Crown_3239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacGrath, Harold
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '750'
+    url: http://www.gutenberg.org/2009/agents/750
+    wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Europe -- Fiction'
+- !lcsh 'Imaginary places -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Puppet Crown
+url: http://www.gutenberg.org/ebooks/3239
